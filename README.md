@@ -1,6 +1,6 @@
 # Minecraft Mod Packs
 
-This repository is mainly a personal archive for the Minecraft mod packs I use, you're welcome to use these mod packs if they interest you though.
+This repository is mainly a personal archive for the Minecraft modpacks I use, you're welcome to use these mod packs if they interest you though.
 
 ---
 
